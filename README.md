@@ -1,0 +1,1 @@
+# pinf-for-mozilla-web-ext
