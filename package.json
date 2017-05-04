@@ -1,6 +1,6 @@
 {
     "name": "pinf-for-mozilla-web-ext",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "dependencies": {
         "bash.origin.test": "^0.1.28",
         "pinf-loader-js": "^0.4.18"
