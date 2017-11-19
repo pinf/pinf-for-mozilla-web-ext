@@ -9,6 +9,7 @@
         "pinf-loader-js": "^0.4.21"
     },
     "scripts": {
+        "install": "bash ./install.sh",
         "test": "bash.origin.test examples"
     }
 }
