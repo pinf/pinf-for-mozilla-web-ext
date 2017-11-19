@@ -1,1 +1,0 @@
-../node_modules/pinf-loader-js/loader.js
