@@ -4,8 +4,10 @@
     "pm": {
         "publish": "npm"
     },
+    "__dependencies": {
+        "bash.origin.lib": ""
+    },
     "dependencies": {
-        "bash.origin.workspace": "^0.2.22",
         "pinf-loader-js": "^0.4.21"
     },
     "scripts": {

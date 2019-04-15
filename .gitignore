@@ -4,3 +4,5 @@
 *~.compiled.*
 .rt/
 /scripts/pinf-loader.js
+.~*
+/package-lock.json

@@ -1,1 +1,0 @@
-../../../../scripts/pinf-loader.js
