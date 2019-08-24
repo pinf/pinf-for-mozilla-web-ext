@@ -1,17 +1,15 @@
 {
-    "name": "pinf-for-mozilla-web-ext",
-    "version": "0.1.4",
-    "pm": {
-        "publish": "npm"
-    },
-    "__dependencies": {
-        "bash.origin.lib": ""
-    },
-    "dependencies": {
-        "pinf-loader-js": "^0.4.21"
-    },
-    "scripts": {
-        "install": "bash ./install.sh",
-        "test": "bash.origin.test examples"
-    }
+  "name": "pinf-for-mozilla-web-ext",
+  "version": "0.2.0-pre.0",
+  "pm": {
+    "publish": "npm"
+  },
+  "dependencies": {
+    "pinf-loader-js": "^0.4.21",
+    "bash.origin.lib": "^0.4.0-pre.0"
+  },
+  "scripts": {
+    "install": "bash ./install.sh",
+    "test": "bash.origin.test examples"
+  }
 }
